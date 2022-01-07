@@ -6,6 +6,9 @@ The main objective of this project is extracting meaningful topics from Historic
 2. Building Topic models
 3. Visualizing end results
 
+![Entire_method](https://user-images.githubusercontent.com/11143761/148607833-d969b6d9-3534-4667-a07b-3a7c6e0fae49.png)
+
+
 ### Data preprocessing
 Code for preprocessing can be found in **Data preprocessing.ipynb** file. Text was extracted from the well reports using Optical Character Recognition. Since these reports date back to 1980s, most of them are handwritten, which lead to noisy text. Hence, preparing data for topic models plays a crucial role in this project. Few NLP techniques used for preprocessing are as follows.
 * Character Replacement
