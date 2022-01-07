@@ -1,4 +1,4 @@
-# Topic-modeling-Wesi
+# Topic-modeling
 
 ## Objective
 The main objective of this project is extracting meaningful topics from Historical well reports to improve existing Information Retrivel system at WESI. Topic Modelling techniques will be applied on the text extracted that from historical well reports. Three main segments of this project are as follows.
